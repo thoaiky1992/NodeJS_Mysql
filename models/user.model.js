@@ -15,4 +15,4 @@ var SinhVien={
 		});
 	}
 };
- module.exports=SinhVien;
+module.exports=SinhVien;
